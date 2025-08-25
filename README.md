@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/viswapramod70/leetcode-dsa/tree/master/0001-two-sum) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/viswapramod70/leetcode-dsa/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
