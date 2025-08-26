@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/viswapramod70/leetcode-dsa/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
