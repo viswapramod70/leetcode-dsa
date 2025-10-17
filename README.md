@@ -20,6 +20,7 @@
 | [0042-trapping-rain-water](https://github.com/viswapramod70/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/viswapramod70/leetcode-dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -34,21 +35,25 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viswapramod70/leetcode-dsa/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/viswapramod70/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Simulation
@@ -76,4 +81,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/1013-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
