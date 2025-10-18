@@ -1,23 +1,19 @@
-import java.util.HashMap;
-
+import java.util.*;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        // Map to store value -> index
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for (int i = 0; i < nums.length; i++) {
-            int complement = target - nums[i];
-
-            // Check if complement exists in map
-            if (map.containsKey(complement)) {
-                return new int[] { map.get(complement), i };
+        int[] ans = new int[2];
+        ans[0] = -1;
+        ans[1] = -1;
+        Map<Integer,Integer> map = new HashMap<>();
+        for(int i=0;i<nums.length;i++){
+            int num = nums[i];
+            if(map.containsKey(target-num)){
+                ans[0] = map.get(target-num);
+                ans[1] = i;
+                return ans;
             }
-
-            // Store current number with its index
-            map.put(nums[i], i);
+            map.put(nums[i],i);
         }
-
-        // If no solution is found (though problem guarantees one)
-        return new int[] {};
+        return ans;
     }
 }
