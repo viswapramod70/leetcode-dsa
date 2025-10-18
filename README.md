@@ -18,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/viswapramod70/leetcode-dsa/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/viswapramod70/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/viswapramod70/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/viswapramod70/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/viswapramod70/leetcode-dsa/tree/master/0169-majority-element) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/viswapramod70/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/viswapramod70/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
@@ -95,6 +97,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/viswapramod70/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/viswapramod70/leetcode-dsa/tree/master/0169-majority-element) |
 ## Counting
 |  |
