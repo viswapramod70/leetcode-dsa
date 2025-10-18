@@ -18,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/viswapramod70/leetcode-dsa/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/viswapramod70/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/viswapramod70/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/viswapramod70/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/viswapramod70/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
@@ -85,5 +87,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/viswapramod70/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
