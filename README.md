@@ -38,6 +38,7 @@
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/viswapramod70/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/viswapramod70/leetcode-dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1791-richest-customer-wealth](https://github.com/viswapramod70/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/viswapramod70/leetcode-dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/viswapramod70/leetcode-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -142,4 +143,5 @@
 | [0048-rotate-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/viswapramod70/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [1791-richest-customer-wealth](https://github.com/viswapramod70/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
