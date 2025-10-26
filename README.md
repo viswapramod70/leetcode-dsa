@@ -83,6 +83,7 @@
 | [0412-fizz-buzz](https://github.com/viswapramod70/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/viswapramod70/leetcode-dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/viswapramod70/leetcode-dsa/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Simulation
 |  |
 | ------- |
