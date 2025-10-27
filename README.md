@@ -32,6 +32,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viswapramod70/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/viswapramod70/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/viswapramod70/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/viswapramod70/leetcode-dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/viswapramod70/leetcode-dsa/tree/master/0229-majority-element-ii) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/viswapramod70/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/viswapramod70/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viswapramod70/leetcode-dsa/tree/master/0745-find-smallest-letter-greater-than-target) |
