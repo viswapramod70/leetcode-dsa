@@ -172,4 +172,8 @@
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/1185-find-in-mountain-array) |
+## Database
+|  |
+| ------- |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/viswapramod70/leetcode-dsa/tree/master/1773-percentage-of-users-attended-a-contest) |
 <!---LeetCode Topics End-->
