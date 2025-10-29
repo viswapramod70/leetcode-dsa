@@ -45,6 +45,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/viswapramod70/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/viswapramod70/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viswapramod70/leetcode-dsa/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/1185-find-in-mountain-array) |
@@ -84,6 +85,7 @@
 | [0136-single-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/viswapramod70/leetcode-dsa/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/viswapramod70/leetcode-dsa/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +149,7 @@
 | [0169-majority-element](https://github.com/viswapramod70/leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/viswapramod70/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/viswapramod70/leetcode-dsa/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
