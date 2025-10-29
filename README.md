@@ -87,6 +87,7 @@
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/viswapramod70/leetcode-dsa/tree/master/0645-set-mismatch) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/viswapramod70/leetcode-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [1013-fibonacci-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/viswapramod70/leetcode-dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/viswapramod70/leetcode-dsa/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/viswapramod70/leetcode-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
