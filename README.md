@@ -22,6 +22,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/viswapramod70/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/viswapramod70/leetcode-dsa/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/viswapramod70/leetcode-dsa/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/viswapramod70/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/viswapramod70/leetcode-dsa/tree/master/0053-maximum-subarray) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viswapramod70/leetcode-dsa/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/viswapramod70/leetcode-dsa/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/viswapramod70/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/viswapramod70/leetcode-dsa/tree/master/0169-majority-element) |
