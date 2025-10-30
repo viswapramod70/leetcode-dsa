@@ -185,6 +185,7 @@
 ## Database
 |  |
 | ------- |
+| [1390-average-selling-price](https://github.com/viswapramod70/leetcode-dsa/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/viswapramod70/leetcode-dsa/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1908-recyclable-and-low-fat-products](https://github.com/viswapramod70/leetcode-dsa/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
