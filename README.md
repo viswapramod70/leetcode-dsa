@@ -185,6 +185,7 @@
 ## Database
 |  |
 | ------- |
+| [1317-monthly-transactions-i](https://github.com/viswapramod70/leetcode-dsa/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/viswapramod70/leetcode-dsa/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/viswapramod70/leetcode-dsa/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/viswapramod70/leetcode-dsa/tree/master/1773-percentage-of-users-attended-a-contest) |
