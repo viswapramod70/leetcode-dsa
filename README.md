@@ -48,6 +48,7 @@
 | [0485-max-consecutive-ones](https://github.com/viswapramod70/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/viswapramod70/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viswapramod70/leetcode-dsa/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0861-flipping-an-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/1185-find-in-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/viswapramod70/leetcode-dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -65,6 +66,7 @@
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/viswapramod70/leetcode-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/viswapramod70/leetcode-dsa/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0861-flipping-an-image) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/viswapramod70/leetcode-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
@@ -120,6 +123,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/viswapramod70/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/viswapramod70/leetcode-dsa/tree/master/0412-fizz-buzz) |
+| [0861-flipping-an-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/viswapramod70/leetcode-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -180,6 +184,7 @@
 | [0073-set-matrix-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/viswapramod70/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viswapramod70/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0861-flipping-an-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/viswapramod70/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 ## Interactive
 |  |
