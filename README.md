@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/viswapramod70/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/viswapramod70/leetcode-dsa/tree/master/0645-set-mismatch) |
@@ -107,6 +108,7 @@
 | [0048-rotate-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/viswapramod70/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/viswapramod70/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/1013-fibonacci-number) |
@@ -138,6 +140,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/viswapramod70/leetcode-dsa/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
