@@ -38,6 +38,7 @@
 | [0162-find-peak-element](https://github.com/viswapramod70/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/viswapramod70/leetcode-dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/viswapramod70/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viswapramod70/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
@@ -111,6 +112,7 @@
 | [0048-rotate-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/viswapramod70/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/viswapramod70/leetcode-dsa/tree/master/0412-fizz-buzz) |
@@ -198,4 +200,12 @@
 | [1390-average-selling-price](https://github.com/viswapramod70/leetcode-dsa/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/viswapramod70/leetcode-dsa/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1908-recyclable-and-low-fat-products](https://github.com/viswapramod70/leetcode-dsa/tree/master/1908-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
