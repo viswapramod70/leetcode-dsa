@@ -11,6 +11,6 @@ class Solution {
 	        out += ans[i].trim();
 	        c++;
 	    }
-	    return out;
+	    return out.trim();
 	}
 }
