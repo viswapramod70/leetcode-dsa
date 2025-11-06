@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/viswapramod70/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/viswapramod70/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/viswapramod70/leetcode-dsa/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
@@ -64,6 +65,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/viswapramod70/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/viswapramod70/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/viswapramod70/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
