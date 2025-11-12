@@ -215,4 +215,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
