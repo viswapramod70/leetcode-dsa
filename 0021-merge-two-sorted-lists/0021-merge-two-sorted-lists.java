@@ -13,13 +13,7 @@ class Solution {
        
         ListNode node3 = new ListNode();
         ListNode tail = node3;
-         if(node1 == null || node2 == null){
-            if(node1==null && node2==null)
-                return node1;
-            if(node1 == null)
-                return node2;
-            return node1;
-        }
+         
         while(node1 != null && node2 != null){
             if(node1.val <= node2.val){
                 tail.next = node1;
