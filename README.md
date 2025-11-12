@@ -72,6 +72,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/viswapramod70/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/viswapramod70/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0861-flipping-an-image) |
@@ -111,6 +112,7 @@
 | [0141-linked-list-cycle](https://github.com/viswapramod70/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/viswapramod70/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/viswapramod70/leetcode-dsa/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/viswapramod70/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -122,6 +124,7 @@
 | [0048-rotate-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/viswapramod70/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
