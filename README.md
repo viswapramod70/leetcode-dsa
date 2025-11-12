@@ -153,6 +153,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/viswapramod70/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/viswapramod70/leetcode-dsa/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -218,5 +219,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/viswapramod70/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
