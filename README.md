@@ -14,6 +14,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/viswapramod70/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/viswapramod70/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/viswapramod70/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0861-flipping-an-image) |
@@ -165,6 +167,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/viswapramod70/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/viswapramod70/leetcode-dsa/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -238,6 +241,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/viswapramod70/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
