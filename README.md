@@ -9,6 +9,7 @@
 | [0125-valid-palindrome](https://github.com/viswapramod70/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/viswapramod70/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/viswapramod70/leetcode-dsa/tree/master/0412-fizz-buzz) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/viswapramod70/leetcode-dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/viswapramod70/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/viswapramod70/leetcode-dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
 | ------- |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/viswapramod70/leetcode-dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
