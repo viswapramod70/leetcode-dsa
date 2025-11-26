@@ -55,6 +55,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/viswapramod70/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/viswapramod70/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/viswapramod70/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viswapramod70/leetcode-dsa/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0861-flipping-an-image) |
@@ -128,6 +129,7 @@
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/viswapramod70/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/viswapramod70/leetcode-dsa/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -261,4 +263,8 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/viswapramod70/leetcode-dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/viswapramod70/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
