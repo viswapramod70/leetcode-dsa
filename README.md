@@ -6,6 +6,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/viswapramod70/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/viswapramod70/leetcode-dsa/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/viswapramod70/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/viswapramod70/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/viswapramod70/leetcode-dsa/tree/master/0412-fizz-buzz) |
@@ -116,6 +117,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/viswapramod70/leetcode-dsa/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/viswapramod70/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
@@ -146,6 +148,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/viswapramod70/leetcode-dsa/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/viswapramod70/leetcode-dsa/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0202-happy-number) |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/viswapramod70/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/viswapramod70/leetcode-dsa/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/viswapramod70/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/viswapramod70/leetcode-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
