@@ -1,6 +1,6 @@
 class Solution {
     public String addBinary(String a, String b) {
-       String result = "";
+        StringBuilder result = new StringBuilder();
         int carry = 0;
         int i = a.length() - 1, j = b.length() - 1;
 
@@ -9,10 +9,10 @@ class Solution {
             if (i >= 0) sum += a.charAt(i--) - '0';
             if (j >= 0) sum += b.charAt(j--) - '0';
 
-            result = sum % 2+result;
+            result.append(sum % 2);
             carry = sum / 2;
         }
 
-        return result;
+        return result.reverse().toString();
     }
 }
