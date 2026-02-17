@@ -58,6 +58,7 @@
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/viswapramod70/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/viswapramod70/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/viswapramod70/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
@@ -110,6 +111,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/viswapramod70/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/viswapramod70/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viswapramod70/leetcode-dsa/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -176,6 +178,7 @@
 | [0118-pascals-triangle](https://github.com/viswapramod70/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viswapramod70/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/viswapramod70/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/viswapramod70/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
@@ -279,9 +282,11 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/viswapramod70/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/viswapramod70/leetcode-dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/viswapramod70/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/viswapramod70/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
