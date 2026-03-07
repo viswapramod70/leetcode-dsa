@@ -70,6 +70,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/1185-find-in-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/viswapramod70/leetcode-dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/viswapramod70/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/viswapramod70/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/viswapramod70/leetcode-dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/viswapramod70/leetcode-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -240,6 +241,7 @@
 | [0074-search-a-2d-matrix](https://github.com/viswapramod70/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viswapramod70/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0861-flipping-an-image) |
+| [1672-richest-customer-wealth](https://github.com/viswapramod70/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/viswapramod70/leetcode-dsa/tree/master/1791-richest-customer-wealth) |
 ## Interactive
 |  |
