@@ -66,6 +66,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/viswapramod70/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/viswapramod70/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viswapramod70/leetcode-dsa/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-flipping-an-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/1185-find-in-mountain-array) |
@@ -115,6 +116,7 @@
 | [0410-split-array-largest-sum](https://github.com/viswapramod70/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viswapramod70/leetcode-dsa/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/viswapramod70/leetcode-dsa/tree/master/1185-find-in-mountain-array) |
 ## Bit Manipulation
