@@ -129,6 +129,7 @@
 | [0287-find-the-duplicate-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/viswapramod70/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0861-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/viswapramod70/leetcode-dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/viswapramod70/leetcode-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
@@ -162,6 +163,7 @@
 | [0268-missing-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/viswapramod70/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/viswapramod70/leetcode-dsa/tree/master/1013-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/viswapramod70/leetcode-dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/viswapramod70/leetcode-dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/viswapramod70/leetcode-dsa/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/viswapramod70/leetcode-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
