@@ -256,6 +256,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/viswapramod70/leetcode-dsa/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/viswapramod70/leetcode-dsa/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/viswapramod70/leetcode-dsa/tree/master/0182-duplicate-emails) |
 | [1317-monthly-transactions-i](https://github.com/viswapramod70/leetcode-dsa/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/viswapramod70/leetcode-dsa/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/viswapramod70/leetcode-dsa/tree/master/1390-average-selling-price) |
