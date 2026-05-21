@@ -258,6 +258,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/viswapramod70/leetcode-dsa/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/viswapramod70/leetcode-dsa/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/viswapramod70/leetcode-dsa/tree/master/0183-customers-who-never-order) |
+| [0185-department-top-three-salaries](https://github.com/viswapramod70/leetcode-dsa/tree/master/0185-department-top-three-salaries) |
 | [1317-monthly-transactions-i](https://github.com/viswapramod70/leetcode-dsa/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/viswapramod70/leetcode-dsa/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/viswapramod70/leetcode-dsa/tree/master/1390-average-selling-price) |
