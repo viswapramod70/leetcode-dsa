@@ -269,6 +269,7 @@
 | [0262-trips-and-users](https://github.com/viswapramod70/leetcode-dsa/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/viswapramod70/leetcode-dsa/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/viswapramod70/leetcode-dsa/tree/master/0550-game-play-analysis-iv) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/viswapramod70/leetcode-dsa/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1317-monthly-transactions-i](https://github.com/viswapramod70/leetcode-dsa/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/viswapramod70/leetcode-dsa/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/viswapramod70/leetcode-dsa/tree/master/1390-average-selling-price) |
