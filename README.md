@@ -154,6 +154,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/viswapramod70/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/viswapramod70/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/viswapramod70/leetcode-dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/viswapramod70/leetcode-dsa/tree/master/0067-add-binary) |
@@ -199,6 +200,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/viswapramod70/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/viswapramod70/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0206-reverse-linked-list) |
@@ -288,6 +290,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/viswapramod70/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/viswapramod70/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/viswapramod70/leetcode-dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
